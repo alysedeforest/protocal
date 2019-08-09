@@ -4,6 +4,19 @@ body {
     font-family: Sans-serif;
 }
 
+.one{
+width: 50px
+}
+
+.two{
+    width: 50px
+}
+    
+.three{
+50px
+}
+    
+
 header {
     display: flex;
     position: fixed;
