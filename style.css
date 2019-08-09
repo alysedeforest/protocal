@@ -1,7 +1,7 @@
 body {
     margin: 0;
     margin-top: 50px;
-    font-family: comfortaa;
+    font-family: sans-serif;
 }
 
 header {
@@ -44,7 +44,7 @@ section {
 
 #home .profile-img {
     width: 300px;
-    border-radius: 50%;
+    border-radius: 0%;
 }
 
 footer {
@@ -72,13 +72,12 @@ header a {
 /* Add everything below here */
 
 #home {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/4f/f5/b9/4ff5b96d92a234ec56a478724a8b6055.jpg');
 }
 
 #about {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/beach.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/8b/87/34/8b873485e54dab82dc3c787a2417f134.jpg');
 }
 
 #fun {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/canyon.jpg');
-}
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/86/0b/32/860b3236376c1adae1b2e40d1101c1cc.jpg');
