@@ -4,8 +4,20 @@ body {
     font-family: Sans-serif;
 }
 
+.one{
+    width: 100px;
+    height: 100px;
+}
 
-    
+.two{
+    width: 100px;
+    height: 100px;
+}
+
+.three{
+    width: 100px;
+    height: 100px;
+}
 
 header {
     display: flex;
