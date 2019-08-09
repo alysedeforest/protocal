@@ -43,7 +43,7 @@ section {
 }
 
 #home .profile-img {
-    width: 300px;
+    width: 100px;
     border-radius: 0%;
 }
 
@@ -54,14 +54,17 @@ footer {
 
 #home h1 {
     font-size: 4em;
+    font-color: teal;
 }
 
 section h2 {
     font-size: 3em;
+    font-color: teal;
 }
 
 section h3 {
     font-size: 2em;
+    font-color: teal;
 }
 
 header a {
