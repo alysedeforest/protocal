@@ -67,19 +67,26 @@ footer {
     padding: 50px;
 }
 
-#home h1 {
+#home h1{
     font-size: 4em;
-    font-color: teal;
+}
+    
+    
+   h1 {font-color: teal;
 }
 
-section h2 {
+section h2{
     font-size: 3em;
-    font-color: teal;
+}
+
+    
+    h2{font-color: teal;
 }
 
 section h3 {
     font-size: 2em;
-    font-color: teal;
+}
+    h3{font-color: teal;
 }
 
 header a {
