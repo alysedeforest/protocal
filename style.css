@@ -5,15 +5,18 @@ body {
 }
 
 .one{
-width: 50px
+width:50px;
+height:60px
 }
 
 .two{
-    width: 50px
+width:500px;
+height:600px;
 }
     
 .three{
-50px
+width:500px;
+height:600px;
 }
     
 
