@@ -1,7 +1,7 @@
 body {
     margin: 0;
     margin-top: 50px;
-    font-family: sans-serif;
+    font-family: Sans-serif;
 }
 
 header {
@@ -30,16 +30,16 @@ header li {
 
 section {
     height: 100vh;
-    border: 1px solid black;
+    border: 1px solid teal;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     
-    background-size: cover; /* Add this line */
-    background-position: center center; /* Add this line */
-    background-repeat: no-repeat; /* Add this line */
-    background-attachment: fixed; /* Add this line */
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
 }
 
 #home .profile-img {
@@ -66,10 +66,10 @@ section h3 {
 
 header a {
     text-decoration: none;
-    color: black;
+    color: teal;
 }
 
-/* Add everything below here */
+
 
 #home {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/4f/f5/b9/4ff5b96d92a234ec56a478724a8b6055.jpg');
